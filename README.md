@@ -1,4 +1,4 @@
-# International-Internship-opportunities-
+# International-Internship-opportunities
 
 Hey there! Thanks for checking out my International-Internship-opportunities repository. I created this even though there are similar repositories out there because the opportunities listed here are ones that I personally applied to or found to have good eligibility standards for undergraduate students. Plus, most of them are either partially or fully funded!
 
