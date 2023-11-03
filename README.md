@@ -61,6 +61,8 @@ If you come across similar opportunities that don't require a financial burden o
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ |
 | [Research in Industrial Projects for Students (RIPS)](http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2023-los-angeles/) | Fully Funded | Summer |
 | [IUSSTF-Viterbi Program](https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/graduation-post-graduation/iusstf-viterbi-program/)                                 | Fully Funded | Summer |
+| [Undergraduate Complexity Research - Santa Fe Institute](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research#Dates)                                        | Fully Funded | Summer |
+| [Chemers Neustein Summer Undergraduate Research Fellowship Program - Rockefeller University](https://www.rockefeller.edu/education-and-training/surf/)                                 | Fully Funded | Summer |
 
 ## Organisation that provide international internships/fellowships
 
