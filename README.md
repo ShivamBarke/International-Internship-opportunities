@@ -55,6 +55,12 @@ If you come across similar opportunities that don't require a financial burden o
 | [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | Fully Funded | Summer |
 | [CERN summer](https://careers.cern/summer)                                                            |              | Summer |
 
+## United Arab Emirates (UAE)
+
+| Opportunity                                                                                     | Funding      | Time   |
+| ----------------------------------------------------------------------------------------------- | ------------ | ------ |
+| [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/) | Fully Funded | Summer |
+
 ## United Kingdom (UK)
 
 | Opportunity                                                                                     | Funding      | Time   |
