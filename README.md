@@ -59,7 +59,7 @@ If you come across similar opportunities that don't require a financial burden o
 
 | Opportunity                                                                                     | Funding      | Time   |
 | ----------------------------------------------------------------------------------------------- | ------------ | ------ |
-| [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/) | Fully Funded | Summer |
+| [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/) | Fully Funded |  |
 
 ## United Kingdom (UK)
 
