@@ -53,7 +53,7 @@ If you come across similar opportunities that don't require a financial burden o
 | ----------------------------------------------------------------------------------------------------- | ------------ | ------ |
 | [Summer at EPFL](https://summer.epfl.ch/)                                                             | Fully Funded | Summer |
 | [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | Fully Funded | Summer |
-| [CERN summer](https://careers.cern/summer)                                                            | Partially Dunded | Summer |
+| [CERN summer](https://careers.cern/summer)                                                            | Partially Funded | Summer |
 
 ## Turkey
 
